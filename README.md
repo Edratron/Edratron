@@ -1,4 +1,4 @@
-👋 Hi, I’m @Edratron
+👋 Hi, I’m @Edratron. 
 Don't know what I am doing.... Help
 <!---
 Edratron/Edratron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
